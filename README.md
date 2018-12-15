@@ -33,7 +33,9 @@ This activity involved creating an Amazon-like storefront using a database creat
     * show the customer the total cost of their purchase once the update goes through
 
 ## Demonstration Video 
-The following link will demonstrate how Bamazon works.
+The following link will demonstrate how Bamazon works:
+
+https://youtu.be/4W7j_aSBQEE
 
 
 
