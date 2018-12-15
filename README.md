@@ -7,7 +7,7 @@ This activity involved creating an Amazon-like storefront using a database creat
 * update store inventory
 * show the customer the total cost of their purchase
 
-## Technologies Used: 
+## Technologies Used
 * npm packages 
 * mySQL Workbench 
 * Node.js 
