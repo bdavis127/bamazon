@@ -1,8 +1,14 @@
 # Project: Bamazon
 
 ## Overview 
-This activity involved creating an Amazon-like storefront using a database created in MySQL. The app will take in orders from customers and deplete stock from the store's inventory.  
+This activity involved creating an Amazon-like storefront using a database created in MySQL. The app will: 
+* take in orders from customers and deplete stock from the store's inventory.  
 Make sure you save and require the MySQL and Prompt npm packages in your homework files--your app will need them for data input and storage. 
+
+## Technologies Used: 
+* npm packages 
+* mySQL Workbench 
+* Node.js 
 
 ## Instructions 
 **CHALLENGE #1: Customer View** 
@@ -25,10 +31,7 @@ Make sure you save and require the MySQL and Prompt npm packages in your homewor
     * This means updating the SQL database to reflect the remaining quantity. 
     * Once the update goes through, show the customer the total cost of their purchase. 
 
-## Technologies Used: 
-* npm packages 
-* mySQL / Sequel Pro 
-* Node.js 
+
 
 ## Submission Screenshots: 
 * Sequel Pro Database: before customer buys any products. 
